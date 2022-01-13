@@ -5,5 +5,5 @@
   - 4 - substitution random
   - 5 - swap random chars
   - 6 - delete random chars
-- **augmented_fromrussian** - questions translated to russian and back to english
-- **augmented_fromitalian** - questions translated to italian and back to english
+- **augmented_from_russian** - questions translated to russian and back to english
+- **augmented_from_italian** - questions translated to italian and back to english
