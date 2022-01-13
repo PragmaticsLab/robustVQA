@@ -1,0 +1,7 @@
+- **6augmentedquestions** - augmented questions using NLPaug:
+  - 1 - OCR method
+  - 2 - keyboard close key mistake
+  - 3 - insert random char
+  - 4 - substitution random
+  - 5 - swap random chars
+  - 6 - delete random chars
