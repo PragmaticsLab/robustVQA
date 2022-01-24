@@ -7,3 +7,4 @@
   - 6 - delete random chars
 - **augmented_from_russian** - questions translated to russian and back to english
 - **augmented_from_italian** - questions translated to italian and back to english
+- **augmented_from_german** - questions translated to german and back to english
